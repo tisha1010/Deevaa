@@ -134,18 +134,6 @@ Deevaa/
 └── README.md
 ```
 
----
-
-# 📌 Future Improvements
-
-- Shopping cart enhancements
-- Payment gateway integration
-- Product filtering system
-- Wishlist functionality
-- User authentication
-- Dark mode support
-
----
 
 # 👩‍💻 Developed By
 
